@@ -1,0 +1,18 @@
+@charset "utf-8";
+@media screen and (max-width:479px) {/*ウィンドウ幅が最大479pxまでの場合に適用*/
+
+
+
+
+.header{
+    font-size: 12px;
+}
+
+.float img {
+    padding-right: 6px;
+}
+main .float p{
+    font-size: 8px;
+}
+}
+
